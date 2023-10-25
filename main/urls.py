@@ -11,6 +11,3 @@ urlpatterns = [
     path('task-Inprogress/', In_progress_view, name="In_progress_status_url"),
 ]
 
-git add .
-git commit -m "something"
-git push
